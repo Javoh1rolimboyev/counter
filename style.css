@@ -1,12 +1,12 @@
 body{
     text-align: center;
     margin: 0;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(220, 194, 181);
 }
 .countainer{
-background-color: rgb(122, 126, 111);
-   margin-left: 800px;
-   margin-right: 800px;
+background-color: rgb(75, 77, 70);
+   margin-left: 780px;
+   margin-right: 780px;
    margin-top: 100px;
    padding: 20px;
    border-radius: 20px;
@@ -28,7 +28,7 @@ background-color: rgb(122, 126, 111);
 #reset{
     padding: 10px 15px;
     border-radius: 20px;
-    background-color: rgb(187, 9, 9);
+    background-color: red;
 }
 h1{
     color: white;
